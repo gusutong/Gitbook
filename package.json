@@ -1,0 +1,22 @@
+{
+  "name": "gitbook",
+  "version": "1.0.0",
+  "description": "在线电子书",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"                  
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gusutong/GitBook.git"      
+  },
+  "author": "fuziwang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gusutong/GitBook/issues"
+  },
+  "homepage": "https://github.com/gusutong/GitBook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"                                     
+  }
+}
